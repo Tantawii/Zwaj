@@ -1,0 +1,8 @@
+.navbar-collapse{flex-grow: 1;}
+.dropdown{
+  margin-left: 15px;
+  color: #198754;
+  background-color: transparent;
+  border-radius: 5px;
+  border-color:#198754
+}

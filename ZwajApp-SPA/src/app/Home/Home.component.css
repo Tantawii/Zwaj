@@ -1,0 +1,7 @@
+.home{
+  height:650px;
+  background-image: url("../../assets/images/home-2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h2,h5{text-align:center}

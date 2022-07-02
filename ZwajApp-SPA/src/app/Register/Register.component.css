@@ -1,0 +1,22 @@
+.nav-link:hover, .nav-link:focus {
+  text-decoration: none;
+  color: pink !important;
+}
+
+.nav-link {
+color:white !important;
+}
+input,select{
+  margin-bottom: 15px;
+}
+select{padding-top:0}
+
+.btn-secondary:hover {
+  text-decoration: none;
+  color: black !important;
+  background:pink !important
+}
+.btn{
+  margin-top:15px;
+  margin-left: 15px;
+}
